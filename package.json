@@ -15,10 +15,7 @@
     "url": "git+https://github.com/Kathuria/react-webpack-setup.git"
   },
   "keywords": [
-    "react",
-    "webpack",
-    "babel",
-    "material-design"
+    "webpack"
   ],
   "author": "Avi Kathuria",
   "homepage": "https://github.com/Kathuria/react-webpack-setup#readme",
